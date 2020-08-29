@@ -11,3 +11,8 @@ Este repositório é destinado técnicas e análise de dados para o mercado  por
   - Programadores;
   - Analistas Finanças;
   - Traders;
+
+
+### Tecnologias:
+  - [Quandl](https://www.quandl.com/): API para dados financeiros;
+  - [Poloniex](https://www.poloniex.com/): Exchange para mercado criptomoedas **(Em Breve)**;
